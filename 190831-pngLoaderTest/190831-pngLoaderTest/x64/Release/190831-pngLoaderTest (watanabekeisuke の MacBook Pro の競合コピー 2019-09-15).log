@@ -1,0 +1,13 @@
+﻿  mainController.cpp
+c:\users\wtnbks\dropbox\data\プログラミング\win\190831-pngloadertest\190831-pngloadertest\190831-pngloadertest\maincontroller.cpp(9): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+c:\users\wtnbks\dropbox\data\プログラミング\win\190831-pngloadertest\190831-pngloadertest\190831-pngloadertest\maincontroller.cpp(13): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\wtnbks\dropbox\data\プログラミング\win\190831-pngloadertest\190831-pngloadertest\190831-pngloadertest\maincontroller.cpp(196): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+c:\users\wtnbks\dropbox\data\プログラミング\win\190831-pngloadertest\190831-pngloadertest\190831-pngloadertest\maincontroller.cpp(199): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\wtnbks\dropbox\data\プログラミング\win\190831-pngloadertest\190831-pngloadertest\190831-pngloadertest\maincontroller.cpp(200): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\wtnbks\dropbox\data\プログラミング\win\190831-pngloadertest\190831-pngloadertest\190831-pngloadertest\maincontroller.cpp(203): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+  コード生成しています。
+  2 of 201 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  190831-pngLoaderTest.vcxproj -> C:\Users\wtnbks\Dropbox\Data\プログラミング\Win\190831-pngLoaderTest\190831-pngLoaderTest\x64\Release\190831-pngLoaderTest.exe

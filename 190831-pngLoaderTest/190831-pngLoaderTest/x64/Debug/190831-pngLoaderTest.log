@@ -1,0 +1,2 @@
+﻿  png24LoaderClass.cpp
+c:\users\wtnbkspc\dropbox\data\プログラミング\win\190831-pngloadertest\190831-pngloadertest\190831-pngloadertest\png24loaderclass.cpp(1): fatal error C1853: 'x64\Debug\190831-pngLoaderTest.pch' プリコンパイル ヘッダー ファイルが旧バージョンのコンパイラで作成されています。また、C++ のプリコンパイル済みヘッダー ファイルを C で使用しています (その逆も考えられます)。
